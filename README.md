@@ -6,12 +6,15 @@ Using Wireshark to Analyze Vulnerable Networks
 The files in this repository were produced by the networks depicted below.
 
 ![Lab Services Diagram](Diagrams/scenario1.png)
+
 Fig. A - Malicious Host
 
 ![Lab Services Diagram](Diagrams/scenario2.png)
+
 Fig. B - Infected Client
 
 ![Lab Services Diagram](Diagrams/scenario3.png)
+
 Fig. C - Illegal Downloads
 
 ### Contents of Offensive Security Presentation
