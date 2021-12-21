@@ -21,9 +21,11 @@ Fig. C - Illegal Downloads
 
 
 ### Contents of Network Security Presentation
-- 
-- 
-- 
+- List protocols useful in dissecting packet submissions
+- Capture and quarantine a trojan in the data stream
+- Observe a foreign desktop image exposed in an HTTP object export
+- Reveal suspect user and hostnames in a Kerberos NameString
+- Examine HTTP GET requests for possible inappropriate downloads
 
 ### Feature Presentation 
 
@@ -31,5 +33,5 @@ Access and download the main [Powerpoint](https://github.com/isejy07/Wireshark-R
 
 ### Supporting Documents 
 
-Access the network analysis document [here](https://github.com/isejy07/Wireshark-Reality-Bytes/tree/main/Documentation/Network_Analysis.docx).
+Access the network analysis report file [here](https://github.com/isejy07/Wireshark-Reality-Bytes/tree/main/Documentation/Network_Analysis.docx).
 
