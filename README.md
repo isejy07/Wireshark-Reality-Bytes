@@ -1,11 +1,15 @@
 # Wireshark-Reality-Bytes
 Using Wireshark to Analyze Vulnerable Networks
 
-## Cloud Virtualization: Dream Within A Dream Within A Dream
+## Three Scenarios: Malware, Infected Hosts, Illegal Torrents
 
-The files in this repository were produced by the network depicted below.
+The files in this repository were produced by the networks depicted below.
 
-![Lab Services Diagram](Diagrams/offensive_presentation.png)
+![Lab Services Diagram](Diagrams/scenario1.png)
+
+![Lab Services Diagram](Diagrams/scenario2.png)
+
+![Lab Services Diagram](Diagrams/scenario3.png)
 
 ### Contents of Offensive Security Presentation
 - Reveal critical weaknesses in a target host computer
