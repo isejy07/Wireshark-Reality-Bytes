@@ -1,4 +1,4 @@
-# Wireshark-Reality-Bytes
+# Wireshark: Reality Bytes
 Using Wireshark to Analyze Vulnerable Networks
 
 ## 3 Scenarios: Malware, Infected Hosts & Illegal Torrents
