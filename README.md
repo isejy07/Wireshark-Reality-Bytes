@@ -1,7 +1,7 @@
 # Wireshark: Reality Bytes
 Using Wireshark to Analyze Vulnerable Networks
 
-## 3 Scenarios: Malware, Infected Hosts & Illegal Torrents
+## 3 Scenarios: Malware, Infected Clients & Illegal Torrents
 
 The files in this repository were produced by the networks depicted below:
 
